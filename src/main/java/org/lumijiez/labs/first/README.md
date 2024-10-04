@@ -169,7 +169,7 @@ public interface BorrowingService {
 ```
 
 **Borrowing Service Implementation**
-java 
+```java 
 public class BorrowingServiceImpl implements BorrowingService {
     private final Notification notificationService;
 
