@@ -10,7 +10,7 @@
 
 ## Implementation
 
-The Library Management System allows users (students and professors) to borrow and return books while managing the underlying book and user storage efficiently. This implementation employs several creational design patterns while adhering to SOLID principles.
+The Library Management System allows users (students and professors) to borrow and return books while managing the underlying book and user storage efficiently. This implementation employs several SOLID principles.
 
 ### Key SOLID Principles
 
